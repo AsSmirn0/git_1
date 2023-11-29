@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My first git-repo");
+            Console.WriteLine("My first git-repo!");
         }
     }
 }
